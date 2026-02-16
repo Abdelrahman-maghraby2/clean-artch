@@ -1,0 +1,15 @@
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.deps.json
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\bin\Debug\net8.0\Restaurants.Application.pdb
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\bin\Debug\net8.0\Restaurants.Damain.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\bin\Debug\net8.0\Restaurants.Damain.pdb
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.AssemblyReference.cache
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfoInputs.cache
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.AssemblyInfo.cs
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.csproj.CoreCompileInputs.cache
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaura.6AB96A7C.Up2Date
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll

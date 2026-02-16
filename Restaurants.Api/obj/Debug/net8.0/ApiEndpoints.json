@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Restaurants.Api.Controllers.RestaurantContraller",
+    "Method": "GetAll",
+    "RelativePath": "api/restaurants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

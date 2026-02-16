@@ -1,0 +1,11 @@
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\bin\Debug\net8.0\Restaurants.Damain.deps.json
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\bin\Debug\net8.0\Restaurants.Damain.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\bin\Debug\net8.0\Restaurants.Damain.pdb
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.AssemblyInfoInputs.cache
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.AssemblyInfo.cs
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.csproj.CoreCompileInputs.cache
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\refint\Restaurants.Damain.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.pdb
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\ref\Restaurants.Damain.dll
