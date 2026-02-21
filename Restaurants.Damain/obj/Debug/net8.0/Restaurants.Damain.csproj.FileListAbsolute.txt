@@ -9,3 +9,4 @@ D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\refint\Restaurants.Damain.dll
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.pdb
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\ref\Restaurants.Damain.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Damain\obj\Debug\net8.0\Restaurants.Damain.sourcelink.json

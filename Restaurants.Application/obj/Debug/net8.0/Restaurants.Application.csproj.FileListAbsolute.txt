@@ -13,3 +13,4 @@ D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\n
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\refint\Restaurants.Application.dll
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.pdb
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\ref\Restaurants.Application.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurants.Application\obj\Debug\net8.0\Restaurants.Application.sourcelink.json

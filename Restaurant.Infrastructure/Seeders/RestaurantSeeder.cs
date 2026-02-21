@@ -73,7 +73,21 @@ public class RestaurantSeeder(RestaurantDbContext dbContext) : IRestaurantSeeder
             Description = "Taste is King",
             ContactEmail = "info@burgerking.com",
             HasDelivery = true,
-            Address = new() { City = "Manchester", Street = "45 Main Road", PostalCode = "M1 1BE" }
+            Address = new() { City = "Manchester", Street = "45 Main Road", PostalCode = "M1 1BE" },
+                Dishes=
+            [
+                new ()
+                {
+                    Name = "Chicken Bucket",
+                    Price = 19.99M,
+                    Description = "A bucket"
+                },
+                new ()
+                {
+                    Name = "Chicken Bucket",
+                    Price = 19.99M,
+                    Description = "A bucket"
+                }]
         }
         ];
 

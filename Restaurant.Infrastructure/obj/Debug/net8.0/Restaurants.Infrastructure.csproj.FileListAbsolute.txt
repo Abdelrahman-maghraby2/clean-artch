@@ -17,3 +17,4 @@ D:\Clean Artch\Restaurants\RestaurantProject\Restaurant.Infrastructure\obj\Debug
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.pdb
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.genruntimeconfig.cache
 D:\Clean Artch\Restaurants\RestaurantProject\Restaurant.Infrastructure\obj\Debug\net8.0\ref\Restaurants.Infrastructure.dll
+D:\Clean Artch\Restaurants\RestaurantProject\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurants.Infrastructure.sourcelink.json
